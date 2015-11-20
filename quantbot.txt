@@ -1,0 +1,35 @@
+Location: Midtown NYC
+H1-b: Must be able to work in the US without sponsorship.  Unfortunately no Visa’s.
+Pay:  90-120k + bonus
+
+A Quantitative Hedge Fund is seeking a Trade Support Analyst/Developer to join their growing team.
+This fund was started in 2008 and already has over 2B+ under management and growing.
+This is an excellent opportunity to be one of the first 20 employees and grow the company.
+
+Trade Support Analyst/Developer
+- Linux / Shell / Python
+
+Quantitative Investment Adviser seeks a talented IT professional with excellent
+technical skills (LINUX, SHELL, PYTHON). HTML / JavaScript / JQuery is a plus but not required.
+This is an entry/mid-level, front office role that provides an excellent opportunity to join a fast growing,
+global firm and gain lots of exposure to the financial markets.
+
+Candidate Responsibilities:
+Monitor live trading to make sure we trade all portfolios correctly.
+Monitor production trading and risk systems.
+Troubleshoot problems as they arise.
+Report to Management on trading issues.
+Develop new tools to help maximize profits.
+Develop reports for reconciliation between different systems.
+-
+Develop scripts to improve the trading systems.
+
+Candidate Requirements:
+Bachelor’s degree in technical field such as Engineering, Computer Science, Physics etc.
+2+ yrs Linux scripting experience using shell, Python.
+Excellent communication skills.
+
+Good to have:
+Familiarity JavaScript / JQuery
+SQL
+Experience with systems support
